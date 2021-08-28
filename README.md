@@ -33,7 +33,7 @@
   
 ## Check version
 
-* [ ] Open an Anaconda Prompt.
+* [ ] Open an Anaconda Prompt. (If you're on a Mac, you should be able to just open a terminal window and run these commands.)
 * [ ] Check your python version by running the code `python --version`
 * [ ] Enter the result in the table below.
 * [ ] Open a regular Command Prompt.
